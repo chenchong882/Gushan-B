@@ -1,0 +1,1036 @@
+{
+  "units": {
+    "e5-4-u3": {
+      "title": "Unit 3",
+      "vocab": [
+        {
+          "id": "e5-4-u3-v001",
+          "word": "breakfast",
+          "part_of_speech": "n.",
+          "chinese": "早餐",
+          "sentence": "I have an egg for breakfast.",
+          "sentence_chinese": "我早餐吃了一顆蛋。"
+        },
+        {
+          "id": "e5-4-u3-v002",
+          "word": "lunch",
+          "part_of_speech": "n.",
+          "chinese": "午餐",
+          "sentence": "What time do you usually eat lunch?",
+          "sentence_chinese": "你通常幾點吃午餐？"
+        },
+        {
+          "id": "e5-4-u3-v003",
+          "word": "dinner",
+          "part_of_speech": "n.",
+          "chinese": "晚餐",
+          "sentence": "We are going to have chicken for dinner.",
+          "sentence_chinese": "我們晚餐要吃雞肉。"
+        },
+        {
+          "id": "e5-4-u3-v004",
+          "word": "bread",
+          "part_of_speech": "n.",
+          "chinese": "麵包",
+          "sentence": "I like to eat bread for breakfast.",
+          "sentence_chinese": "我喜歡早餐吃麵包。"
+        },
+        {
+          "id": "e5-4-u3-v005",
+          "word": "chicken",
+          "part_of_speech": "n.",
+          "chinese": "雞；雞肉",
+          "sentence": "He likes to eat fried chicken.",
+          "sentence_chinese": "他喜歡吃炸雞。"
+        },
+        {
+          "id": "e5-4-u3-v006",
+          "word": "salad",
+          "part_of_speech": "n.",
+          "chinese": "沙拉",
+          "sentence": "I would like some salad.",
+          "sentence_chinese": "我想要一些沙拉。"
+        },
+        {
+          "id": "e5-4-u3-v007",
+          "word": "soup",
+          "part_of_speech": "n.",
+          "chinese": "湯",
+          "sentence": "The soup is hot. Be careful.",
+          "sentence_chinese": "湯很燙，要小心。"
+        },
+        {
+          "id": "e5-4-u3-v008",
+          "word": "noodles",
+          "part_of_speech": "n.",
+          "chinese": "麵條（複數）",
+          "sentence": "I want a bowl of beef noodles.",
+          "sentence_chinese": "我想要一碗牛肉麵。"
+        },
+        {
+          "id": "e5-4-u3-v009",
+          "word": "please",
+          "part_of_speech": "adv.",
+          "chinese": "請",
+          "sentence": "Please give me some bread.",
+          "sentence_chinese": "請給我一些麵包。"
+        }
+      ],
+      "phrases": [
+        {
+          "id": "e5-4-u3-p001",
+          "phrase": "would like",
+          "chinese": "想要",
+          "sentence": "I would like some soup, please.",
+          "sentence_chinese": "我想要一些湯，謝謝。"
+        },
+        {
+          "id": "e5-4-u3-p002",
+          "phrase": "I see.",
+          "chinese": "我知道了。",
+          "sentence": "A: There is no bread today. B: I see.",
+          "sentence_chinese": "A: 今天沒有麵包。B: 我知道了。"
+        },
+        {
+          "id": "e5-4-u3-p003",
+          "phrase": "Too bad!",
+          "chinese": "太糟了！",
+          "sentence": "A: There is no chicken today. B: Too bad!",
+          "sentence_chinese": "A: 今天沒有雞肉。B: 太糟了！"
+        }
+      ],
+      "grammar": {
+        "tips": [
+          {
+            "label": "句型 1",
+            "text": "S + would like + 食物：禮貌地說「想要某樣東西」，比 want 更客氣"
+          },
+          {
+            "label": "句型 2",
+            "text": "What would you like for breakfast / lunch / dinner?：詢問對方餐點想吃什麼"
+          },
+          {
+            "label": "縮寫",
+            "text": "I would like = I'd like，說話時常用縮寫形式，意思完全相同"
+          }
+        ],
+        "notes": [
+          {
+            "title": "would like 的基本用法",
+            "rule": "S + would like + N",
+            "description": "用來禮貌地說「想要某樣東西」，比 want 更客氣，常出現在點餐或請求的場合。不管主詞是誰（I / you / he / she / they），would like 的形式都不變，like 後面不加 s、d 或 ing。",
+            "examples": [
+              "I would like some soup.（我想要一些湯。）",
+              "She would like some salad.（她想要一些沙拉。）",
+              "He would like some chicken.（他想要一些雞肉。）",
+              "They would like some noodles.（他們想要一些麵條。）"
+            ]
+          },
+          {
+            "title": "would like 的問句",
+            "rule": "What would + S + like for + 餐別?",
+            "description": "用來詢問別人想要吃什麼。餐別固定搭配介系詞 for（for breakfast / for lunch / for dinner）。對方用 I would like... 或 I'd like... 回答。",
+            "examples": [
+              "What would you like for lunch?（你午餐想要吃什麼？）",
+              "What would she like for breakfast?（她早餐想要吃什麼？）",
+              "What would they like for dinner?（他們晚餐想要吃什麼？）"
+            ]
+          },
+          {
+            "title": "縮寫形式 'd like",
+            "rule": "would → 'd（縮寫）",
+            "description": "說話或寫作時常把 would 縮短成 'd，意思完全一樣，語氣更自然流暢。I would like = I'd like，He would like = He'd like，She would like = She'd like。",
+            "examples": [
+              "I'd like some noodles.（我想要一些麵條。）",
+              "She'd like some bread.（她想要一些麵包。）",
+              "He'd like some chicken, please.（他想要一些雞肉，麻煩了。）",
+              "They'd like some soup for dinner.（他們晚餐想要一些湯。）"
+            ]
+          }
+        ],
+        "quiz": [
+          {
+            "id": "e5-4-u3-q001",
+            "question": "I _____ some soup, please.",
+            "options": [
+              "A. like",
+              "B. would like",
+              "C. would likes",
+              "D. likes"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "would like 是固定用法，不隨主詞改變。"
+          },
+          {
+            "id": "e5-4-u3-q002",
+            "question": "\"I'd like\" 是哪個句子的縮寫？",
+            "options": [
+              "A. I would like",
+              "B. I will like",
+              "C. I am like",
+              "D. I liked"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "'d 是 would 的縮寫，I'd like = I would like。"
+          },
+          {
+            "id": "e5-4-u3-q003",
+            "question": "What would you like _____ breakfast?",
+            "options": [
+              "A. in",
+              "B. on",
+              "C. at",
+              "D. for"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "詢問餐點固定搭配 for：for breakfast / for lunch / for dinner。"
+          },
+          {
+            "id": "e5-4-u3-q004",
+            "question": "She _____ some salad for lunch.",
+            "options": [
+              "A. like",
+              "B. likes",
+              "C. would like",
+              "D. would likes"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "would like 形式不隨主詞改變，不加 s。"
+          },
+          {
+            "id": "e5-4-u3-q005",
+            "question": "Tom _____ some chicken for dinner.",
+            "options": [
+              "A. would likes",
+              "B. would like",
+              "C. like",
+              "D. liked"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "不管主詞是誰，would like 的 like 不加任何字尾。"
+          },
+          {
+            "id": "e5-4-u3-q006",
+            "question": "下列哪一句是正確的？",
+            "options": [
+              "A. I would like some bread.",
+              "B. I would likes some bread.",
+              "C. I would liked some bread.",
+              "D. I would liking some bread."
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "would like 之後 like 不加 s、d 或 ing。"
+          },
+          {
+            "id": "e5-4-u3-q007",
+            "question": "What _____ she like for lunch?",
+            "options": [
+              "A. do",
+              "B. does",
+              "C. would",
+              "D. is"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "would like 問句：What would + 主詞 + like for...?"
+          },
+          {
+            "id": "e5-4-u3-q008",
+            "question": "\"I'd like some noodles.\" 這句話的意思是？",
+            "options": [
+              "A. 我有一些麵條。",
+              "B. 我喜歡麵條。",
+              "C. 我需要麵條。",
+              "D. 我想要一些麵條。"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "would like = 想要（有禮貌的說法）。"
+          },
+          {
+            "id": "e5-4-u3-q009",
+            "question": "We _____ some soup for dinner.",
+            "options": [
+              "A. would like",
+              "B. would likes",
+              "C. would liked",
+              "D. liking"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "主詞是 we，would like 形式不變。"
+          },
+          {
+            "id": "e5-4-u3-q010",
+            "question": "下列哪句話是用 would like 詢問別人想要什麼？",
+            "options": [
+              "A. Do you like soup?",
+              "B. What would you like for lunch?",
+              "C. You like bread.",
+              "D. She would like some salad."
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "問句格式：What would + 主詞 + like for + 餐別?"
+          },
+          {
+            "id": "e5-4-u3-q011",
+            "question": "He _____ some bread, please.",
+            "options": [
+              "A. like",
+              "B. likes",
+              "C. would like",
+              "D. would liking"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "would like 不隨主詞改變，he 後面也是 would like。"
+          },
+          {
+            "id": "e5-4-u3-q012",
+            "question": "\"I'd like\" 的 'd 是哪個字的縮寫？",
+            "options": [
+              "A. did",
+              "B. do",
+              "C. will",
+              "D. would"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "'d = would，I'd like = I would like。"
+          },
+          {
+            "id": "e5-4-u3-q013",
+            "question": "What would you like _____ dinner?",
+            "options": [
+              "A. for",
+              "B. in",
+              "C. at",
+              "D. on"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "for dinner、for lunch、for breakfast，固定用 for。"
+          },
+          {
+            "id": "e5-4-u3-q014",
+            "question": "The students _____ some noodles for lunch.",
+            "options": [
+              "A. would likes",
+              "B. would like",
+              "C. likes",
+              "D. would liked"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "複數主詞也一樣用 would like，形式不變。"
+          },
+          {
+            "id": "e5-4-u3-q015",
+            "question": "下列哪句 would like 用法正確？",
+            "options": [
+              "A. He would like some soup, doesn't he?",
+              "B. Would you like for some bread?",
+              "C. What would you like for breakfast?",
+              "D. I would like eat some chicken."
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "What would you like for + 餐別? 是標準問句句型。"
+          },
+          {
+            "id": "e5-4-u3-q016",
+            "question": "Mom _____ some salad for lunch.",
+            "options": [
+              "A. would likes",
+              "B. would liked",
+              "C. liking",
+              "D. would like"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "would like 不隨主詞變化。"
+          },
+          {
+            "id": "e5-4-u3-q017",
+            "question": "\"She'd like some chicken.\" 改寫成完整形式是？",
+            "options": [
+              "A. She would like some chicken.",
+              "B. She will like some chicken.",
+              "C. She is liking some chicken.",
+              "D. She likes some chicken."
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "'d = would，展開後為 She would like。"
+          },
+          {
+            "id": "e5-4-u3-q018",
+            "question": "Teacher: What _____ you like for lunch?\nStudent: I'd like some soup.",
+            "options": [
+              "A. do",
+              "B. are",
+              "C. would",
+              "D. will"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "What would you like...? 是點餐或詢問時的固定問句。"
+          },
+          {
+            "id": "e5-4-u3-q019",
+            "question": "下列哪句是詢問午餐想要吃什麼？",
+            "options": [
+              "A. What would you like for breakfast?",
+              "B. What would you like for lunch?",
+              "C. What would you like for dinner?",
+              "D. Would you like some bread?"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "lunch = 午餐，for lunch 對應午餐。"
+          },
+          {
+            "id": "e5-4-u3-q020",
+            "question": "My sister _____ some bread for breakfast.",
+            "options": [
+              "A. like",
+              "B. would likes",
+              "C. liked",
+              "D. would like"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "my sister = she，用 would like，不加 s。"
+          },
+          {
+            "id": "e5-4-u3-q021",
+            "question": "\"I would like some salad.\" 可以縮短寫成？",
+            "options": [
+              "A. I'd like some salad.",
+              "B. I'll like some salad.",
+              "C. I'm like some salad.",
+              "D. I liked some salad."
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "would → 'd，縮寫成 I'd like。"
+          },
+          {
+            "id": "e5-4-u3-q022",
+            "question": "What would your brother like _____ breakfast?",
+            "options": [
+              "A. at",
+              "B. in",
+              "C. for",
+              "D. on"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "for breakfast 是固定搭配。"
+          },
+          {
+            "id": "e5-4-u3-q023",
+            "question": "Dad _____ some noodles for dinner.",
+            "options": [
+              "A. would likes",
+              "B. would like",
+              "C. like",
+              "D. would liked"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "would like 的形式固定不變。"
+          },
+          {
+            "id": "e5-4-u3-q024",
+            "question": "下列哪句意思是「她想要一些湯。」？",
+            "options": [
+              "A. She likes some soup.",
+              "B. She is soup.",
+              "C. She has some soup.",
+              "D. She would like some soup."
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "would like = 想要，She would like some soup = 她想要一些湯。"
+          },
+          {
+            "id": "e5-4-u3-q025",
+            "question": "請選出正確的句子：",
+            "options": [
+              "A. He'd like some chicken for dinner.",
+              "B. He'd likes some chicken for dinner.",
+              "C. He'd liked some chicken for dinner.",
+              "D. He'd liking some chicken for dinner."
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "He'd like 是 He would like 的縮寫，like 不加任何字尾。"
+          },
+          {
+            "id": "e5-4-u3-q026",
+            "question": "\"What would you like for ___?\" 問早餐時，空格填？",
+            "options": [
+              "A. lunch",
+              "B. breakfast",
+              "C. dinner",
+              "D. food"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "breakfast = 早餐。"
+          },
+          {
+            "id": "e5-4-u3-q027",
+            "question": "My mom _____ some salad, please.",
+            "options": [
+              "A. like",
+              "B. likes",
+              "C. would like",
+              "D. would likes"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "my mom = she，用 would like。"
+          },
+          {
+            "id": "e5-4-u3-q028",
+            "question": "下列哪個縮寫是正確的？",
+            "options": [
+              "A. He'd like = He will like",
+              "B. She'd like = She did like",
+              "C. I'd like = I am like",
+              "D. They'd like = They would like"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "'d = would，They'd like = They would like。"
+          },
+          {
+            "id": "e5-4-u3-q029",
+            "question": "從下列選出正確的問句：",
+            "options": [
+              "A. What would she likes for lunch?",
+              "B. What would she like for lunch?",
+              "C. What she would like for lunch?",
+              "D. What would she liked for lunch?"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "問句語序：What would + 主詞 + like for...?，like 不加字尾。"
+          },
+          {
+            "id": "e5-4-u3-q030",
+            "question": "Anna _____ some soup and bread for dinner.",
+            "options": [
+              "A. would like",
+              "B. would likes",
+              "C. like",
+              "D. would liked"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "would like 固定用法，不加字尾。"
+          },
+          {
+            "id": "e5-4-u3-q031",
+            "question": "\"Tom would like some chicken.\" 裡，Tom 想要的是？",
+            "options": [
+              "A. 麵包",
+              "B. 沙拉",
+              "C. 雞肉",
+              "D. 湯"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "chicken = 雞肉。"
+          },
+          {
+            "id": "e5-4-u3-q032",
+            "question": "下列哪句話的意思是「你晚餐想要吃什麼？」？",
+            "options": [
+              "A. What do you like for dinner?",
+              "B. What will you like for dinner?",
+              "C. Do you like dinner?",
+              "D. What would you like for dinner?"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "What would you like for dinner? 是標準詢問晚餐的句型。"
+          },
+          {
+            "id": "e5-4-u3-q033",
+            "question": "He _____ some noodles for lunch.",
+            "options": [
+              "A. like",
+              "B. would like",
+              "C. would likes",
+              "D. would liked"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "would like 形式固定，不加字尾。"
+          },
+          {
+            "id": "e5-4-u3-q034",
+            "question": "\"I'd like some bread.\" 是什麼意思？",
+            "options": [
+              "A. 我想要一些麵包。",
+              "B. 我喜歡麵包。",
+              "C. 我有麵包。",
+              "D. 我吃麵包。"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "I'd like = I would like = 我想要。"
+          },
+          {
+            "id": "e5-4-u3-q035",
+            "question": "What would you like _____ lunch?",
+            "options": [
+              "A. at",
+              "B. on",
+              "C. for",
+              "D. in"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "for lunch 是固定搭配。"
+          },
+          {
+            "id": "e5-4-u3-q036",
+            "question": "下面哪個選項有錯誤？",
+            "options": [
+              "A. I would like some soup.",
+              "B. She would like some bread.",
+              "C. They would like some salad.",
+              "D. He would likes some noodles."
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "would like 的 like 不加 s，無論主詞是誰。"
+          },
+          {
+            "id": "e5-4-u3-q037",
+            "question": "My friends _____ some chicken for dinner.",
+            "options": [
+              "A. would likes",
+              "B. would like",
+              "C. likes",
+              "D. would liked"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "複數主詞 my friends，would like 形式不變。"
+          },
+          {
+            "id": "e5-4-u3-q038",
+            "question": "請選出正確的縮寫句：",
+            "options": [
+              "A. She'd like some soup, please.",
+              "B. She'd likes some soup, please.",
+              "C. She'd liked some soup, please.",
+              "D. She'd liking some soup, please."
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "She'd like 是正確縮寫，like 後面不加任何字。"
+          },
+          {
+            "id": "e5-4-u3-q039",
+            "question": "Peter: What would you like for dinner?\nLisa: _____ some salad, please.",
+            "options": [
+              "A. I like",
+              "B. I likes",
+              "C. I'd like",
+              "D. I would likes"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "回答用 I'd like（= I would like），有禮貌的說法。"
+          },
+          {
+            "id": "e5-4-u3-q040",
+            "question": "\"would like\" 可以用來做什麼？",
+            "options": [
+              "A. 說明過去發生的事",
+              "B. 詢問幾點",
+              "C. 介紹自己",
+              "D. 禮貌地說「想要某樣東西」"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "would like 是有禮貌地表達「想要」的用法。"
+          },
+          {
+            "id": "e5-4-u3-q041",
+            "question": "Jenny _____ some noodles and soup for lunch.",
+            "options": [
+              "A. like",
+              "B. would like",
+              "C. would likes",
+              "D. liked"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "would like 形式固定。"
+          },
+          {
+            "id": "e5-4-u3-q042",
+            "question": "\"He'd like\" 展開完整的寫法是？",
+            "options": [
+              "A. He would like",
+              "B. He will like",
+              "C. He is like",
+              "D. He did like"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "'d = would，He'd like = He would like。"
+          },
+          {
+            "id": "e5-4-u3-q043",
+            "question": "What _____ they like for breakfast?",
+            "options": [
+              "A. do",
+              "B. does",
+              "C. would",
+              "D. are"
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "What would + 主詞 + like for + 餐別?"
+          },
+          {
+            "id": "e5-4-u3-q044",
+            "question": "下列哪句話的意思是「我想要一些雞肉，麻煩了。」？",
+            "options": [
+              "A. I like chicken, please.",
+              "B. I have some chicken, please.",
+              "C. I liked chicken, please.",
+              "D. I'd like some chicken, please."
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "I'd like some chicken, please. = 我想要一些雞肉，麻煩了。"
+          },
+          {
+            "id": "e5-4-u3-q045",
+            "question": "下面哪句是正確的？",
+            "options": [
+              "A. What would you like at dinner?",
+              "B. What would you like for dinner?",
+              "C. What would you like on dinner?",
+              "D. What would you like in dinner?"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "for dinner 是固定搭配，不用 at / on / in。"
+          },
+          {
+            "id": "e5-4-u3-q046",
+            "question": "Bob _____ some salad and soup for lunch.",
+            "options": [
+              "A. would like",
+              "B. would likes",
+              "C. like",
+              "D. would liking"
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "would like 形式固定，like 不加任何字尾。"
+          },
+          {
+            "id": "e5-4-u3-q047",
+            "question": "\"I'd like some noodles.\" 與哪句意思相同？",
+            "options": [
+              "A. I liked some noodles.",
+              "B. I will like some noodles.",
+              "C. I would like some noodles.",
+              "D. I like some noodles."
+            ],
+            "answer": "C",
+            "answer_index": 2,
+            "hint": "I'd like = I would like，意思完全相同。"
+          },
+          {
+            "id": "e5-4-u3-q048",
+            "question": "下面哪個問句是正確的？",
+            "options": [
+              "A. What would she likes for lunch?",
+              "B. What would she liked for lunch?",
+              "C. What she would like for lunch?",
+              "D. What would she like for lunch?"
+            ],
+            "answer": "D",
+            "answer_index": 3,
+            "hint": "What would + 主詞 + like for...?，like 不加字尾，語序正確。"
+          },
+          {
+            "id": "e5-4-u3-q049",
+            "question": "Amy _____ some bread for breakfast.",
+            "options": [
+              "A. would likes",
+              "B. would like",
+              "C. like",
+              "D. would liked"
+            ],
+            "answer": "B",
+            "answer_index": 1,
+            "hint": "would like 是固定用法，like 不加 s。"
+          },
+          {
+            "id": "e5-4-u3-q050",
+            "question": "下列哪一句最禮貌地說「想要」？",
+            "options": [
+              "A. I would like some soup.",
+              "B. I want some soup.",
+              "C. Give me some soup.",
+              "D. I need some soup."
+            ],
+            "answer": "A",
+            "answer_index": 0,
+            "hint": "would like 比 want 更有禮貌，是正式場合或點餐時的標準用法。"
+          }
+        ]
+      },
+      "scrambles": {
+        "vocab": [
+          {
+            "id": "e5-4-u3-sv001",
+            "vocab_id": "e5-4-u3-v001",
+            "sentence": "I have an egg for breakfast.",
+            "sentence_chinese": "我早餐吃了一顆蛋。"
+          },
+          {
+            "id": "e5-4-u3-sv002",
+            "vocab_id": "e5-4-u3-v002",
+            "sentence": "What time do you usually eat lunch?",
+            "sentence_chinese": "你通常幾點吃午餐？"
+          },
+          {
+            "id": "e5-4-u3-sv003",
+            "vocab_id": "e5-4-u3-v003",
+            "sentence": "We are going to have chicken for dinner.",
+            "sentence_chinese": "我們晚餐要吃雞肉。"
+          },
+          {
+            "id": "e5-4-u3-sv004",
+            "vocab_id": "e5-4-u3-v004",
+            "sentence": "I like to eat bread for breakfast.",
+            "sentence_chinese": "我喜歡早餐吃麵包。"
+          },
+          {
+            "id": "e5-4-u3-sv005",
+            "vocab_id": "e5-4-u3-v005",
+            "sentence": "He likes to eat fried chicken.",
+            "sentence_chinese": "他喜歡吃炸雞。"
+          },
+          {
+            "id": "e5-4-u3-sv006",
+            "vocab_id": "e5-4-u3-v006",
+            "sentence": "I would like some salad.",
+            "sentence_chinese": "我想要一些沙拉。"
+          },
+          {
+            "id": "e5-4-u3-sv007",
+            "vocab_id": "e5-4-u3-v007",
+            "sentence": "The soup is hot. Be careful.",
+            "sentence_chinese": "湯很燙，要小心。"
+          },
+          {
+            "id": "e5-4-u3-sv008",
+            "vocab_id": "e5-4-u3-v008",
+            "sentence": "I want a bowl of beef noodles.",
+            "sentence_chinese": "我想要一碗牛肉麵。"
+          },
+          {
+            "id": "e5-4-u3-sv009",
+            "vocab_id": "e5-4-u3-v009",
+            "sentence": "Please give me some bread.",
+            "sentence_chinese": "請給我一些麵包。"
+          }
+        ],
+        "phrases": [
+          {
+            "id": "e5-4-u3-sp001",
+            "phrase_id": "e5-4-u3-p001",
+            "sentence": "I would like some soup, please.",
+            "sentence_chinese": "我想要一些湯，謝謝。"
+          },
+          {
+            "id": "e5-4-u3-sp002",
+            "phrase_id": "e5-4-u3-p002",
+            "sentence": "A: There is no bread today. B: I see.",
+            "sentence_chinese": "A: 今天沒有麵包。B: 我知道了。"
+          },
+          {
+            "id": "e5-4-u3-sp003",
+            "phrase_id": "e5-4-u3-p003",
+            "sentence": "A: There is no chicken today. B: Too bad!",
+            "sentence_chinese": "A: 今天沒有雞肉。B: 太糟了！"
+          }
+        ],
+        "grammar": [
+          {
+            "id": "e5-4-u3-sg001",
+            "sentence": "I would like some soup for dinner.",
+            "sentence_chinese": "我晚餐想要一些湯。"
+          },
+          {
+            "id": "e5-4-u3-sg002",
+            "sentence": "She would like some bread for breakfast.",
+            "sentence_chinese": "她早餐想要一些麵包。"
+          },
+          {
+            "id": "e5-4-u3-sg003",
+            "sentence": "He would like some chicken for lunch.",
+            "sentence_chinese": "他午餐想要一些雞肉。"
+          },
+          {
+            "id": "e5-4-u3-sg004",
+            "sentence": "We would like some noodles for dinner.",
+            "sentence_chinese": "我們晚餐想要一些麵條。"
+          },
+          {
+            "id": "e5-4-u3-sg005",
+            "sentence": "They would like some salad for lunch.",
+            "sentence_chinese": "他們午餐想要一些沙拉。"
+          },
+          {
+            "id": "e5-4-u3-sg006",
+            "sentence": "What would you like for breakfast?",
+            "sentence_chinese": "你早餐想要吃什麼？"
+          },
+          {
+            "id": "e5-4-u3-sg007",
+            "sentence": "What would she like for lunch?",
+            "sentence_chinese": "她午餐想要吃什麼？"
+          },
+          {
+            "id": "e5-4-u3-sg008",
+            "sentence": "What would he like for dinner?",
+            "sentence_chinese": "他晚餐想要吃什麼？"
+          },
+          {
+            "id": "e5-4-u3-sg009",
+            "sentence": "I'd like some noodles, please.",
+            "sentence_chinese": "我想要一些麵條，麻煩了。"
+          },
+          {
+            "id": "e5-4-u3-sg010",
+            "sentence": "She'd like some salad for dinner.",
+            "sentence_chinese": "她晚餐想要一些沙拉。"
+          },
+          {
+            "id": "e5-4-u3-sg011",
+            "sentence": "He'd like some chicken, please.",
+            "sentence_chinese": "他想要一些雞肉，麻煩了。"
+          },
+          {
+            "id": "e5-4-u3-sg012",
+            "sentence": "What would they like for breakfast?",
+            "sentence_chinese": "他們早餐想要吃什麼？"
+          },
+          {
+            "id": "e5-4-u3-sg013",
+            "sentence": "My mom would like some soup.",
+            "sentence_chinese": "我媽媽想要一些湯。"
+          },
+          {
+            "id": "e5-4-u3-sg014",
+            "sentence": "My dad would like some bread for breakfast.",
+            "sentence_chinese": "我爸爸早餐想要一些麵包。"
+          },
+          {
+            "id": "e5-4-u3-sg015",
+            "sentence": "I would like some chicken and salad for dinner.",
+            "sentence_chinese": "我晚餐想要一些雞肉和沙拉。"
+          },
+          {
+            "id": "e5-4-u3-sg016",
+            "sentence": "Tom would like some noodles for lunch.",
+            "sentence_chinese": "湯姆午餐想要一些麵條。"
+          },
+          {
+            "id": "e5-4-u3-sg017",
+            "sentence": "Anna would like some bread and soup.",
+            "sentence_chinese": "安娜想要一些麵包和湯。"
+          },
+          {
+            "id": "e5-4-u3-sg018",
+            "sentence": "We'd like some chicken for dinner.",
+            "sentence_chinese": "我們晚餐想要一些雞肉。"
+          },
+          {
+            "id": "e5-4-u3-sg019",
+            "sentence": "What would your sister like for lunch?",
+            "sentence_chinese": "你姐姐午餐想要吃什麼？"
+          },
+          {
+            "id": "e5-4-u3-sg020",
+            "sentence": "I would like some salad, please.",
+            "sentence_chinese": "我想要一些沙拉，麻煩了。"
+          },
+          {
+            "id": "e5-4-u3-sg021",
+            "sentence": "She'd like some noodles for breakfast.",
+            "sentence_chinese": "她早餐想要一些麵條。"
+          },
+          {
+            "id": "e5-4-u3-sg022",
+            "sentence": "He would like some bread and soup for dinner.",
+            "sentence_chinese": "他晚餐想要一些麵包和湯。"
+          },
+          {
+            "id": "e5-4-u3-sg023",
+            "sentence": "What would your mom like for dinner?",
+            "sentence_chinese": "你媽媽晚餐想要吃什麼？"
+          },
+          {
+            "id": "e5-4-u3-sg024",
+            "sentence": "They'd like some salad and chicken for lunch.",
+            "sentence_chinese": "他們午餐想要一些沙拉和雞肉。"
+          },
+          {
+            "id": "e5-4-u3-sg025",
+            "sentence": "I would like some soup and bread, please.",
+            "sentence_chinese": "我想要一些湯和麵包，麻煩了。"
+          },
+          {
+            "id": "e5-4-u3-sg026",
+            "sentence": "Ben would like some noodles for dinner.",
+            "sentence_chinese": "班晚餐想要一些麵條。"
+          },
+          {
+            "id": "e5-4-u3-sg027",
+            "sentence": "What would you like for dinner tonight?",
+            "sentence_chinese": "你今晚晚餐想要吃什麼？"
+          },
+          {
+            "id": "e5-4-u3-sg028",
+            "sentence": "My friends would like some chicken for lunch.",
+            "sentence_chinese": "我的朋友們午餐想要一些雞肉。"
+          },
+          {
+            "id": "e5-4-u3-sg029",
+            "sentence": "I'd like some bread and salad, please.",
+            "sentence_chinese": "我想要一些麵包和沙拉，麻煩了。"
+          },
+          {
+            "id": "e5-4-u3-sg030",
+            "sentence": "She would like some noodles and soup for dinner.",
+            "sentence_chinese": "她晚餐想要一些麵條和湯。"
+          }
+        ]
+      }
+    }
+  }
+}

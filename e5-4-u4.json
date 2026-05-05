@@ -1,0 +1,1024 @@
+{
+    "units": {
+        "e5-4-u4": {
+            "title": "Unit 4",
+            "vocab": [
+                {
+                    "id": "e5-4-u4-v001",
+                    "word": "backpack",
+                    "part_of_speech": "n.",
+                    "chinese": "背包",
+                    "sentence": "Whose backpack is this?",
+                    "sentence_chinese": "這是誰的背包？"
+                },
+                {
+                    "id": "e5-4-u4-v002",
+                    "word": "cap",
+                    "part_of_speech": "n.",
+                    "chinese": "棒球帽",
+                    "sentence": "It's his cap.",
+                    "sentence_chinese": "這是他的棒球帽。"
+                },
+                {
+                    "id": "e5-4-u4-v003",
+                    "word": "lunchbox",
+                    "part_of_speech": "n.",
+                    "chinese": "午餐盒",
+                    "sentence": "Whose lunchbox is this?",
+                    "sentence_chinese": "這是誰的午餐盒？"
+                },
+                {
+                    "id": "e5-4-u4-v004",
+                    "word": "umbrella",
+                    "part_of_speech": "n.",
+                    "chinese": "雨傘",
+                    "sentence": "It's her umbrella.",
+                    "sentence_chinese": "這是她的雨傘。"
+                },
+                {
+                    "id": "e5-4-u4-v005",
+                    "word": "water bottle",
+                    "part_of_speech": "n.",
+                    "chinese": "水壺",
+                    "sentence": "Don't forget your water bottle.",
+                    "sentence_chinese": "不要忘記你的水壺。"
+                },
+                {
+                    "id": "e5-4-u4-v006",
+                    "word": "workbook",
+                    "part_of_speech": "n.",
+                    "chinese": "作業本",
+                    "sentence": "Whose workbook is this?",
+                    "sentence_chinese": "這是誰的作業本？"
+                },
+                {
+                    "id": "e5-4-u4-v007",
+                    "word": "glasses",
+                    "part_of_speech": "n.",
+                    "chinese": "眼鏡",
+                    "sentence": "Whose glasses are these?",
+                    "sentence_chinese": "這些是誰的眼鏡？"
+                },
+                {
+                    "id": "e5-4-u4-v008",
+                    "word": "shoes",
+                    "part_of_speech": "n.",
+                    "chinese": "鞋（複數）",
+                    "sentence": "They're my shoes.",
+                    "sentence_chinese": "這些是我的鞋。"
+                },
+                {
+                    "id": "e5-4-u4-v009",
+                    "word": "whose",
+                    "part_of_speech": "pron.",
+                    "chinese": "誰的",
+                    "sentence": "Whose cap is that?",
+                    "sentence_chinese": "那是誰的棒球帽？"
+                }
+            ],
+            "phrases": [
+                {
+                    "id": "e5-4-u4-p001",
+                    "phrase": "Amazing!",
+                    "chinese": "真神奇！",
+                    "sentence": "Amazing! It's a magic backpack!",
+                    "sentence_chinese": "真神奇！這是一個魔法背包！"
+                },
+                {
+                    "id": "e5-4-u4-p002",
+                    "phrase": "What's the matter?",
+                    "chinese": "怎麼了？",
+                    "sentence": "What's the matter? I can't find my shoes.",
+                    "sentence_chinese": "怎麼了？我找不到我的鞋。"
+                }
+            ],
+            "grammar": {
+                "tips": [
+                    {
+                        "label": "詢問單數物品的主人",
+                        "text": "用 Whose + 單數名詞 + is this? 來問「這是誰的___？」，回答用 It's + 所有格 + 名詞。"
+                    },
+                    {
+                        "label": "詢問複數物品的主人",
+                        "text": "用 Whose + 複數名詞 + are these? 來問「這些是誰的___？」，回答用 They're + 所有格 + 名詞。"
+                    },
+                    {
+                        "label": "常用所有格",
+                        "text": "my（我的）、your（你的）、his（他的）、her（她的）、their（他們的）、our（我們的）"
+                    }
+                ],
+                "notes": [
+                    {
+                        "title": "Whose 的用法",
+                        "rule": "Whose 用來詢問物品屬於誰，等於「誰的」",
+                        "description": "Whose 放在句首，後面接名詞，再接動詞。單數名詞用 is，複數名詞用 are。",
+                        "examples": [
+                            "Whose backpack is this? → It's his backpack.",
+                            "Whose glasses are these? → They're her glasses.",
+                            "Whose workbook is this? → It's my workbook.",
+                            "Whose shoes are these? → They're his shoes."
+                        ]
+                    },
+                    {
+                        "title": "is this vs. are these",
+                        "rule": "單數名詞搭配 is this，複數名詞搭配 are these",
+                        "description": "glasses 和 shoes 永遠是複數，必須用 are these 來問。其他如 backpack、cap、lunchbox、umbrella、water bottle、workbook 是單數，用 is this 來問。",
+                        "examples": [
+                            "Whose cap is this?（cap 單數）",
+                            "Whose lunchbox is this?（lunchbox 單數）",
+                            "Whose glasses are these?（glasses 永遠複數）",
+                            "Whose shoes are these?（shoes 永遠複數）"
+                        ]
+                    },
+                    {
+                        "title": "回答的句型",
+                        "rule": "單數用 It's，複數用 They're",
+                        "description": "回答 Whose 問句時，單數物品用 It's + 所有格 + 名詞，複數物品用 They're + 所有格 + 名詞。It's = It is，They're = They are。",
+                        "examples": [
+                            "It's her umbrella.（雨傘是單數）",
+                            "It's his cap.（帽子是單數）",
+                            "They're my glasses.（眼鏡是複數）",
+                            "They're his shoes.（鞋子是複數）"
+                        ]
+                    }
+                ],
+                "quiz": [
+                    {
+                        "id": "e5-4-u4-q001",
+                        "question": "Whose ___ is this? It's my backpack.",
+                        "options": [
+                            "A. backpacks",
+                            "B. backpack",
+                            "C. back pack",
+                            "D. backs"
+                        ],
+                        "answer": "B",
+                        "answer_index": 1,
+                        "hint": "backpack 是單數名詞，Whose 後面接單數名詞 backpack。"
+                    },
+                    {
+                        "id": "e5-4-u4-q002",
+                        "question": "___ cap is this? It's her cap.",
+                        "options": [
+                            "A. Whose",
+                            "B. Who's",
+                            "C. What's",
+                            "D. Where's"
+                        ],
+                        "answer": "A",
+                        "answer_index": 0,
+                        "hint": "Whose 用來詢問物品屬於誰，Who's 是 Who is 的縮寫，意思不同。"
+                    },
+                    {
+                        "id": "e5-4-u4-q003",
+                        "question": "Whose lunchbox ___ this?",
+                        "options": [
+                            "A. am",
+                            "B. are",
+                            "C. is",
+                            "D. be"
+                        ],
+                        "answer": "C",
+                        "answer_index": 2,
+                        "hint": "lunchbox 是單數名詞，搭配 is。"
+                    },
+                    {
+                        "id": "e5-4-u4-q004",
+                        "question": "\"Whose umbrella is this?\" Choose the correct response.",
+                        "options": [
+                            "A. They're his umbrella.",
+                            "B. It's his umbrella.",
+                            "C. It's his umbrellas.",
+                            "D. Those are his umbrella."
+                        ],
+                        "answer": "B",
+                        "answer_index": 1,
+                        "hint": "umbrella 是單數，用 It's 回答。"
+                    },
+                    {
+                        "id": "e5-4-u4-q005",
+                        "question": "Whose shoes ___ these?",
+                        "options": [
+                            "A. is",
+                            "B. am",
+                            "C. be",
+                            "D. are"
+                        ],
+                        "answer": "D",
+                        "answer_index": 3,
+                        "hint": "shoes 是複數名詞，搭配 are。"
+                    },
+                    {
+                        "id": "e5-4-u4-q006",
+                        "question": "\"Whose glasses are these?\" Choose the correct response.",
+                        "options": [
+                            "A. It's her glasses.",
+                            "B. They're her glass.",
+                            "C. They're her glasses.",
+                            "D. Those is her glasses."
+                        ],
+                        "answer": "C",
+                        "answer_index": 2,
+                        "hint": "glasses 是複數，用 They're 回答，且名詞保持複數 glasses。"
+                    },
+                    {
+                        "id": "e5-4-u4-q007",
+                        "question": "Whose ___ are these? They're his shoes.",
+                        "options": [
+                            "A. shoes",
+                            "B. shoe",
+                            "C. shoess",
+                            "D. a shoe"
+                        ],
+                        "answer": "A",
+                        "answer_index": 0,
+                        "hint": "shoes 是複數名詞，搭配 are these，正確拼法是 shoes。"
+                    },
+                    {
+                        "id": "e5-4-u4-q008",
+                        "question": "Whose water bottle is this? ___ my water bottle.",
+                        "options": [
+                            "A. They're",
+                            "B. It's",
+                            "C. Those are",
+                            "D. These are"
+                        ],
+                        "answer": "B",
+                        "answer_index": 1,
+                        "hint": "water bottle 是單數，回答用 It's。"
+                    },
+                    {
+                        "id": "e5-4-u4-q009",
+                        "question": "Whose cap is this? It's ___ cap.",
+                        "options": [
+                            "A. she",
+                            "B. he",
+                            "C. they",
+                            "D. her"
+                        ],
+                        "answer": "D",
+                        "answer_index": 3,
+                        "hint": "所有格用 her（她的），不能用主格 she（她）。"
+                    },
+                    {
+                        "id": "e5-4-u4-q010",
+                        "question": "Whose shoes are these? They're ___ shoes.",
+                        "options": [
+                            "A. him",
+                            "B. she",
+                            "C. his",
+                            "D. they"
+                        ],
+                        "answer": "C",
+                        "answer_index": 2,
+                        "hint": "所有格用 his（他的），不能用受格 him 或主格 he。"
+                    },
+                    {
+                        "id": "e5-4-u4-q011",
+                        "question": "Whose backpack is this? It's ___ backpack.",
+                        "options": [
+                            "A. my",
+                            "B. me",
+                            "C. I",
+                            "D. mine"
+                        ],
+                        "answer": "A",
+                        "answer_index": 0,
+                        "hint": "所有格形容詞用 my（我的），放在名詞前。mine 是所有格代名詞，後面不接名詞。"
+                    },
+                    {
+                        "id": "e5-4-u4-q012",
+                        "question": "Whose glasses are these? They're ___ glasses.",
+                        "options": [
+                            "A. she",
+                            "B. her",
+                            "C. hers",
+                            "D. herself"
+                        ],
+                        "answer": "B",
+                        "answer_index": 1,
+                        "hint": "所有格形容詞用 her（她的），放在名詞 glasses 前面。"
+                    },
+                    {
+                        "id": "e5-4-u4-q013",
+                        "question": "Whose ___ is this? (Choose the singular noun)",
+                        "options": [
+                            "A. glasses",
+                            "B. shoes",
+                            "C. lunchbox",
+                            "D. boots"
+                        ],
+                        "answer": "C",
+                        "answer_index": 2,
+                        "hint": "lunchbox 是單數，搭配 is this。glasses、shoes、boots 都是複數，用 are these。"
+                    },
+                    {
+                        "id": "e5-4-u4-q014",
+                        "question": "Whose ___ are these? (Choose the plural noun)",
+                        "options": [
+                            "A. backpack",
+                            "B. cap",
+                            "C. umbrella",
+                            "D. glasses"
+                        ],
+                        "answer": "D",
+                        "answer_index": 3,
+                        "hint": "glasses 永遠是複數，搭配 are these。"
+                    },
+                    {
+                        "id": "e5-4-u4-q015",
+                        "question": "Which sentence is correct?",
+                        "options": [
+                            "A. Whose backpack is this?",
+                            "B. Whose is this backpack?",
+                            "C. Who's backpack is this?",
+                            "D. Whose backpack are this?"
+                        ],
+                        "answer": "A",
+                        "answer_index": 0,
+                        "hint": "正確語序：Whose + 名詞 + is this？backpack 是單數用 is。"
+                    },
+                    {
+                        "id": "e5-4-u4-q016",
+                        "question": "Which sentence is correct?",
+                        "options": [
+                            "A. Whose glasses is these?",
+                            "B. Whose glasses are these?",
+                            "C. Who's glasses are these?",
+                            "D. Whose are these glasses?"
+                        ],
+                        "answer": "B",
+                        "answer_index": 1,
+                        "hint": "glasses 是複數用 are。Whose 不是 Who's（Who is）。"
+                    },
+                    {
+                        "id": "e5-4-u4-q017",
+                        "question": "\"It's his workbook.\" Which word means the same as \"It's\"?",
+                        "options": [
+                            "A. It was",
+                            "B. It are",
+                            "C. It is",
+                            "D. It has"
+                        ],
+                        "answer": "C",
+                        "answer_index": 2,
+                        "hint": "It's 是 It is 的縮寫。"
+                    },
+                    {
+                        "id": "e5-4-u4-q018",
+                        "question": "Which answer is NOT correct for \"Whose cap is this?\"",
+                        "options": [
+                            "A. It's my cap.",
+                            "B. It's her cap.",
+                            "C. It's Tom's cap.",
+                            "D. They're his cap."
+                        ],
+                        "answer": "D",
+                        "answer_index": 3,
+                        "hint": "cap 是單數，回答應用 It's，不能用 They're。"
+                    },
+                    {
+                        "id": "e5-4-u4-q019",
+                        "question": "Which answer is NOT correct for \"Whose shoes are these?\"",
+                        "options": [
+                            "A. It's her shoes.",
+                            "B. They're my shoes.",
+                            "C. They're his shoes.",
+                            "D. They're Tom's shoes."
+                        ],
+                        "answer": "A",
+                        "answer_index": 0,
+                        "hint": "shoes 是複數，回答應用 They're，不能用 It's。"
+                    },
+                    {
+                        "id": "e5-4-u4-q020",
+                        "question": "Whose ___ are these? (Choose the plural noun)",
+                        "options": [
+                            "A. workbook",
+                            "B. cap",
+                            "C. shoes",
+                            "D. water bottle"
+                        ],
+                        "answer": "C",
+                        "answer_index": 2,
+                        "hint": "shoes 是複數，搭配 are these。"
+                    },
+                    {
+                        "id": "e5-4-u4-q021",
+                        "question": "Look at the answer: \"It's her lunchbox.\" What was the question?",
+                        "options": [
+                            "A. Whose lunchboxes are these?",
+                            "B. Whose lunchbox is this?",
+                            "C. Who's lunchbox is this?",
+                            "D. Whose lunchbox are these?"
+                        ],
+                        "answer": "B",
+                        "answer_index": 1,
+                        "hint": "回答用 It's，所以問句是單數，用 is this。Whose 不是 Who's。"
+                    },
+                    {
+                        "id": "e5-4-u4-q022",
+                        "question": "Look at the answer: \"They're his shoes.\" What was the question?",
+                        "options": [
+                            "A. Whose shoe is this?",
+                            "B. Whose shoes is this?",
+                            "C. Who's shoes are these?",
+                            "D. Whose shoes are these?"
+                        ],
+                        "answer": "D",
+                        "answer_index": 3,
+                        "hint": "回答用 They're，所以問句是複數，用 are these。"
+                    },
+                    {
+                        "id": "e5-4-u4-q023",
+                        "question": "Look at the answer: \"It's Tom's workbook.\" What was the question?",
+                        "options": [
+                            "A. Whose workbook is this?",
+                            "B. Whose workbooks are these?",
+                            "C. Who's workbook is this?",
+                            "D. Whose workbook are these?"
+                        ],
+                        "answer": "A",
+                        "answer_index": 0,
+                        "hint": "回答用 It's，所以問句是單數，用 is this。"
+                    },
+                    {
+                        "id": "e5-4-u4-q024",
+                        "question": "Look at the answer: \"They're Amy's glasses.\" What was the question?",
+                        "options": [
+                            "A. Whose glasses is this?",
+                            "B. Whose glass are these?",
+                            "C. Whose glasses are these?",
+                            "D. Who's glasses are these?"
+                        ],
+                        "answer": "C",
+                        "answer_index": 2,
+                        "hint": "回答用 They're，所以問句是複數，glasses 是正確複數形。"
+                    },
+                    {
+                        "id": "e5-4-u4-q025",
+                        "question": "Choose the correct question-and-answer pair.",
+                        "options": [
+                            "A. Whose cap is this? / They're my cap.",
+                            "B. Whose glasses are these? / They're my glasses.",
+                            "C. Whose shoes is this? / It's my shoes.",
+                            "D. Whose backpack are these? / They're my backpack."
+                        ],
+                        "answer": "B",
+                        "answer_index": 1,
+                        "hint": "glasses 是複數，問句用 are these，答句用 They're。"
+                    },
+                    {
+                        "id": "e5-4-u4-q026",
+                        "question": "Choose the correct question-and-answer pair.",
+                        "options": [
+                            "A. Whose workbook are these? / They're her workbook.",
+                            "B. Whose lunchbox are these? / They're his lunchbox.",
+                            "C. Whose cap is these? / They're her cap.",
+                            "D. Whose umbrella is this? / It's his umbrella."
+                        ],
+                        "answer": "D",
+                        "answer_index": 3,
+                        "hint": "umbrella 是單數，問句用 is this，答句用 It's。"
+                    },
+                    {
+                        "id": "e5-4-u4-q027",
+                        "question": "\"Whose\" is used to ask about ___.",
+                        "options": [
+                            "A. ownership",
+                            "B. a place",
+                            "C. a time",
+                            "D. quantity"
+                        ],
+                        "answer": "A",
+                        "answer_index": 0,
+                        "hint": "Whose 問的是「誰的」，也就是物品的所有權（ownership）。"
+                    },
+                    {
+                        "id": "e5-4-u4-q028",
+                        "question": "Which word is used to ask \"who does this belong to?\"",
+                        "options": [
+                            "A. Who",
+                            "B. What",
+                            "C. Whose",
+                            "D. Whom"
+                        ],
+                        "answer": "C",
+                        "answer_index": 2,
+                        "hint": "Whose 用來詢問物品屬於誰，相當於中文的「誰的」。"
+                    },
+                    {
+                        "id": "e5-4-u4-q029",
+                        "question": "You find a cap on the floor and don't know who it belongs to. What do you ask?",
+                        "options": [
+                            "A. What cap is this?",
+                            "B. Whose cap is this?",
+                            "C. Who cap is this?",
+                            "D. Which cap is this?"
+                        ],
+                        "answer": "B",
+                        "answer_index": 1,
+                        "hint": "詢問物品屬於誰用 Whose，句型：Whose + 名詞 + is this？"
+                    },
+                    {
+                        "id": "e5-4-u4-q030",
+                        "question": "You find some glasses on the desk. What do you ask?",
+                        "options": [
+                            "A. What glasses are these?",
+                            "B. Who glasses are these?",
+                            "C. Which glasses are these?",
+                            "D. Whose glasses are these?"
+                        ],
+                        "answer": "D",
+                        "answer_index": 3,
+                        "hint": "詢問物品屬於誰用 Whose，glasses 是複數用 are these。"
+                    },
+                    {
+                        "id": "e5-4-u4-q031",
+                        "question": "Complete: Whose backpack ___ this? It ___ my backpack.",
+                        "options": [
+                            "A. is / is",
+                            "B. are / are",
+                            "C. are / is",
+                            "D. is / are"
+                        ],
+                        "answer": "A",
+                        "answer_index": 0,
+                        "hint": "backpack 是單數，問句和答句都用 is。It's = It is。"
+                    },
+                    {
+                        "id": "e5-4-u4-q032",
+                        "question": "Complete: Whose shoes ___ these? They ___ her shoes.",
+                        "options": [
+                            "A. is / is",
+                            "B. is / are",
+                            "C. are / are",
+                            "D. are / is"
+                        ],
+                        "answer": "C",
+                        "answer_index": 2,
+                        "hint": "shoes 是複數，問句用 are，答句 They're = They are，所以也是 are。"
+                    },
+                    {
+                        "id": "e5-4-u4-q033",
+                        "question": "Complete: Whose ___ are these? ___ Tom's glasses.",
+                        "options": [
+                            "A. glass / It's",
+                            "B. glasses / They're",
+                            "C. glasss / They're",
+                            "D. glasses / It's"
+                        ],
+                        "answer": "B",
+                        "answer_index": 1,
+                        "hint": "glasses 是複數，搭配 are these，回答用 They're。"
+                    },
+                    {
+                        "id": "e5-4-u4-q034",
+                        "question": "Complete: Whose ___ is this? ___ her water bottle.",
+                        "options": [
+                            "A. water bottle / They're",
+                            "B. waters bottle / It's",
+                            "C. water bottles / It's",
+                            "D. water bottle / It's"
+                        ],
+                        "answer": "D",
+                        "answer_index": 3,
+                        "hint": "water bottle 是單數，搭配 is this，回答用 It's。"
+                    },
+                    {
+                        "id": "e5-4-u4-q035",
+                        "question": "Complete: Whose cap ___ this? ___ his cap.",
+                        "options": [
+                            "A. is / It's",
+                            "B. are / They're",
+                            "C. is / They're",
+                            "D. are / It's"
+                        ],
+                        "answer": "A",
+                        "answer_index": 0,
+                        "hint": "cap 是單數，問句用 is，答句用 It's。"
+                    },
+                    {
+                        "id": "e5-4-u4-q036",
+                        "question": "Rearrange the words: is / Whose / this / lunchbox",
+                        "options": [
+                            "A. Is whose this lunchbox?",
+                            "B. Whose is this lunchbox?",
+                            "C. Whose lunchbox is this?",
+                            "D. Lunchbox whose is this?"
+                        ],
+                        "answer": "C",
+                        "answer_index": 2,
+                        "hint": "正確語序：Whose + 名詞(lunchbox) + is + this？"
+                    },
+                    {
+                        "id": "e5-4-u4-q037",
+                        "question": "Rearrange the words: are / these / glasses / Whose",
+                        "options": [
+                            "A. These glasses whose are?",
+                            "B. Whose glasses are these?",
+                            "C. Glasses these are whose?",
+                            "D. Are these glasses whose?"
+                        ],
+                        "answer": "B",
+                        "answer_index": 1,
+                        "hint": "正確語序：Whose + 名詞(glasses) + are + these？"
+                    },
+                    {
+                        "id": "e5-4-u4-q038",
+                        "question": "Rearrange the words: umbrella / is / Whose / this",
+                        "options": [
+                            "A. Umbrella is whose this?",
+                            "B. Is whose umbrella this?",
+                            "C. This umbrella whose is?",
+                            "D. Whose umbrella is this?"
+                        ],
+                        "answer": "D",
+                        "answer_index": 3,
+                        "hint": "正確語序：Whose + 名詞(umbrella) + is + this？"
+                    },
+                    {
+                        "id": "e5-4-u4-q039",
+                        "question": "Rearrange the words: shoes / are / these / Whose",
+                        "options": [
+                            "A. Whose shoes are these?",
+                            "B. These shoes are whose?",
+                            "C. Are these shoes whose?",
+                            "D. Shoes whose are these?"
+                        ],
+                        "answer": "A",
+                        "answer_index": 0,
+                        "hint": "正確語序：Whose + 名詞(shoes) + are + these？"
+                    },
+                    {
+                        "id": "e5-4-u4-q040",
+                        "question": "Rearrange the words: his / backpack / It's",
+                        "options": [
+                            "A. Backpack his it's.",
+                            "B. His backpack it's.",
+                            "C. It's his backpack.",
+                            "D. It's backpack his."
+                        ],
+                        "answer": "C",
+                        "answer_index": 2,
+                        "hint": "回答語序：It's + 所有格(his) + 名詞(backpack)。"
+                    },
+                    {
+                        "id": "e5-4-u4-q041",
+                        "question": "Rearrange the words: her / glasses / They're",
+                        "options": [
+                            "A. Glasses her they're.",
+                            "B. They're her glasses.",
+                            "C. Her they're glasses.",
+                            "D. Glasses they're her."
+                        ],
+                        "answer": "B",
+                        "answer_index": 1,
+                        "hint": "回答語序：They're + 所有格(her) + 名詞(glasses)。"
+                    },
+                    {
+                        "id": "e5-4-u4-q042",
+                        "question": "Whose ___ is this? (Choose the correct singular noun)",
+                        "options": [
+                            "A. shoes",
+                            "B. glasses",
+                            "C. caps",
+                            "D. workbook"
+                        ],
+                        "answer": "D",
+                        "answer_index": 3,
+                        "hint": "workbook 是單數，搭配 is this。shoes 和 glasses 是複數，caps 加了 s 也是複數。"
+                    },
+                    {
+                        "id": "e5-4-u4-q043",
+                        "question": "Mary says she can't find her lunchbox. You find one and want to confirm it's hers. You say:",
+                        "options": [
+                            "A. Is this your lunchbox?",
+                            "B. Whose lunchbox are these?",
+                            "C. That's your lunchbox.",
+                            "D. What's the matter?"
+                        ],
+                        "answer": "A",
+                        "answer_index": 0,
+                        "hint": "你已知道是 Mary 的，用 Is this your lunchbox? 確認，而不是用 Whose 問主人。"
+                    },
+                    {
+                        "id": "e5-4-u4-q044",
+                        "question": "Tom finds a very big backpack and is surprised. What does he say?",
+                        "options": [
+                            "A. What's the matter?",
+                            "B. Whose backpack is this?",
+                            "C. Amazing! It's a big backpack!",
+                            "D. It's his backpack."
+                        ],
+                        "answer": "C",
+                        "answer_index": 2,
+                        "hint": "Amazing! 用來表達驚嘆，符合 Tom 感到驚訝的情境。"
+                    },
+                    {
+                        "id": "e5-4-u4-q045",
+                        "question": "Someone looks worried and upset. You care about them and ask:",
+                        "options": [
+                            "A. Whose cap is this?",
+                            "B. What's the matter?",
+                            "C. It's my umbrella.",
+                            "D. Amazing!"
+                        ],
+                        "answer": "B",
+                        "answer_index": 1,
+                        "hint": "What's the matter? 用來詢問對方怎麼了，表示關心。"
+                    },
+                    {
+                        "id": "e5-4-u4-q046",
+                        "question": "Which sentence is grammatically correct?",
+                        "options": [
+                            "A. Whose are these shoes?",
+                            "B. Whose shoes these are?",
+                            "C. These whose shoes are?",
+                            "D. Whose shoes are these?"
+                        ],
+                        "answer": "D",
+                        "answer_index": 3,
+                        "hint": "正確語序：Whose + 名詞 + are + these？"
+                    },
+                    {
+                        "id": "e5-4-u4-q047",
+                        "question": "Which sentence is grammatically correct?",
+                        "options": [
+                            "A. Whose workbook is this?",
+                            "B. Whose is this workbook?",
+                            "C. Workbook whose is this?",
+                            "D. Is whose workbook this?"
+                        ],
+                        "answer": "A",
+                        "answer_index": 0,
+                        "hint": "正確語序：Whose + 名詞(workbook) + is + this？"
+                    },
+                    {
+                        "id": "e5-4-u4-q048",
+                        "question": "\"They're\" is a short form of:",
+                        "options": [
+                            "A. That are",
+                            "B. These are",
+                            "C. They are",
+                            "D. There are"
+                        ],
+                        "answer": "C",
+                        "answer_index": 2,
+                        "hint": "They're = They are，用來回答複數名詞的問句。"
+                    },
+                    {
+                        "id": "e5-4-u4-q049",
+                        "question": "\"It's\" is a short form of:",
+                        "options": [
+                            "A. Its",
+                            "B. It is",
+                            "C. I is",
+                            "D. It was"
+                        ],
+                        "answer": "B",
+                        "answer_index": 1,
+                        "hint": "It's = It is。its（沒有撇號）是所有格，意思不同。"
+                    },
+                    {
+                        "id": "e5-4-u4-q050",
+                        "question": "Which question uses \"Whose\" correctly?",
+                        "options": [
+                            "A. Whose is your bag?",
+                            "B. Whose you like?",
+                            "C. Whose the bag?",
+                            "D. Whose bag is this?"
+                        ],
+                        "answer": "D",
+                        "answer_index": 3,
+                        "hint": "Whose 後面要接名詞再接動詞：Whose + 名詞 + is/are + this/these？"
+                    }
+                ]
+            },
+            "scrambles": {
+                "vocab": [
+                    {
+                        "id": "e5-4-u4-sv001",
+                        "vocab_id": "e5-4-u4-v001",
+                        "sentence": "Whose backpack is this?",
+                        "sentence_chinese": "這是誰的背包？"
+                    },
+                    {
+                        "id": "e5-4-u4-sv002",
+                        "vocab_id": "e5-4-u4-v002",
+                        "sentence": "It's his cap.",
+                        "sentence_chinese": "這是他的棒球帽。"
+                    },
+                    {
+                        "id": "e5-4-u4-sv003",
+                        "vocab_id": "e5-4-u4-v003",
+                        "sentence": "Whose lunchbox is this?",
+                        "sentence_chinese": "這是誰的午餐盒？"
+                    },
+                    {
+                        "id": "e5-4-u4-sv004",
+                        "vocab_id": "e5-4-u4-v004",
+                        "sentence": "It's her umbrella.",
+                        "sentence_chinese": "這是她的雨傘。"
+                    },
+                    {
+                        "id": "e5-4-u4-sv005",
+                        "vocab_id": "e5-4-u4-v005",
+                        "sentence": "Don't forget your water bottle.",
+                        "sentence_chinese": "不要忘記你的水壺。"
+                    },
+                    {
+                        "id": "e5-4-u4-sv006",
+                        "vocab_id": "e5-4-u4-v006",
+                        "sentence": "Whose workbook is this?",
+                        "sentence_chinese": "這是誰的作業本？"
+                    },
+                    {
+                        "id": "e5-4-u4-sv007",
+                        "vocab_id": "e5-4-u4-v007",
+                        "sentence": "Whose glasses are these?",
+                        "sentence_chinese": "這些是誰的眼鏡？"
+                    },
+                    {
+                        "id": "e5-4-u4-sv008",
+                        "vocab_id": "e5-4-u4-v008",
+                        "sentence": "They're my shoes.",
+                        "sentence_chinese": "這些是我的鞋。"
+                    },
+                    {
+                        "id": "e5-4-u4-sv009",
+                        "vocab_id": "e5-4-u4-v009",
+                        "sentence": "Whose cap is that?",
+                        "sentence_chinese": "那是誰的棒球帽？"
+                    }
+                ],
+                "phrases": [
+                    {
+                        "id": "e5-4-u4-sp001",
+                        "phrase_id": "e5-4-u4-p001",
+                        "sentence": "Amazing! It's a magic backpack!",
+                        "sentence_chinese": "真神奇！這是一個魔法背包！"
+                    },
+                    {
+                        "id": "e5-4-u4-sp002",
+                        "phrase_id": "e5-4-u4-p002",
+                        "sentence": "What's the matter? I can't find my shoes.",
+                        "sentence_chinese": "怎麼了？我找不到我的鞋。"
+                    }
+                ],
+                "grammar": [
+                    {
+                        "id": "e5-4-u4-sg001",
+                        "sentence": "Whose backpack is this?",
+                        "sentence_chinese": "這是誰的背包？"
+                    },
+                    {
+                        "id": "e5-4-u4-sg002",
+                        "sentence": "It's his backpack.",
+                        "sentence_chinese": "這是他的背包。"
+                    },
+                    {
+                        "id": "e5-4-u4-sg003",
+                        "sentence": "Whose cap is this?",
+                        "sentence_chinese": "這是誰的棒球帽？"
+                    },
+                    {
+                        "id": "e5-4-u4-sg004",
+                        "sentence": "It's her cap.",
+                        "sentence_chinese": "這是她的棒球帽。"
+                    },
+                    {
+                        "id": "e5-4-u4-sg005",
+                        "sentence": "Whose lunchbox is this?",
+                        "sentence_chinese": "這是誰的午餐盒？"
+                    },
+                    {
+                        "id": "e5-4-u4-sg006",
+                        "sentence": "It's my lunchbox.",
+                        "sentence_chinese": "這是我的午餐盒。"
+                    },
+                    {
+                        "id": "e5-4-u4-sg007",
+                        "sentence": "Whose umbrella is this?",
+                        "sentence_chinese": "這是誰的雨傘？"
+                    },
+                    {
+                        "id": "e5-4-u4-sg008",
+                        "sentence": "It's his umbrella.",
+                        "sentence_chinese": "這是他的雨傘。"
+                    },
+                    {
+                        "id": "e5-4-u4-sg009",
+                        "sentence": "Whose water bottle is this?",
+                        "sentence_chinese": "這是誰的水壺？"
+                    },
+                    {
+                        "id": "e5-4-u4-sg010",
+                        "sentence": "It's her water bottle.",
+                        "sentence_chinese": "這是她的水壺。"
+                    },
+                    {
+                        "id": "e5-4-u4-sg011",
+                        "sentence": "Whose workbook is this?",
+                        "sentence_chinese": "這是誰的作業本？"
+                    },
+                    {
+                        "id": "e5-4-u4-sg012",
+                        "sentence": "It's your workbook.",
+                        "sentence_chinese": "這是你的作業本。"
+                    },
+                    {
+                        "id": "e5-4-u4-sg013",
+                        "sentence": "Whose glasses are these?",
+                        "sentence_chinese": "這些是誰的眼鏡？"
+                    },
+                    {
+                        "id": "e5-4-u4-sg014",
+                        "sentence": "They're her glasses.",
+                        "sentence_chinese": "這些是她的眼鏡。"
+                    },
+                    {
+                        "id": "e5-4-u4-sg015",
+                        "sentence": "Whose shoes are these?",
+                        "sentence_chinese": "這些是誰的鞋？"
+                    },
+                    {
+                        "id": "e5-4-u4-sg016",
+                        "sentence": "They're his shoes.",
+                        "sentence_chinese": "這些是他的鞋。"
+                    },
+                    {
+                        "id": "e5-4-u4-sg017",
+                        "sentence": "It's their backpack.",
+                        "sentence_chinese": "這是他們的背包。"
+                    },
+                    {
+                        "id": "e5-4-u4-sg018",
+                        "sentence": "They're my shoes.",
+                        "sentence_chinese": "這些是我的鞋。"
+                    },
+                    {
+                        "id": "e5-4-u4-sg019",
+                        "sentence": "It's your cap.",
+                        "sentence_chinese": "這是你的棒球帽。"
+                    },
+                    {
+                        "id": "e5-4-u4-sg020",
+                        "sentence": "They're our glasses.",
+                        "sentence_chinese": "這些是我們的眼鏡。"
+                    },
+                    {
+                        "id": "e5-4-u4-sg021",
+                        "sentence": "Whose backpacks are these?",
+                        "sentence_chinese": "這些是誰的背包？"
+                    },
+                    {
+                        "id": "e5-4-u4-sg022",
+                        "sentence": "They're our backpacks.",
+                        "sentence_chinese": "這些是我們的背包。"
+                    },
+                    {
+                        "id": "e5-4-u4-sg023",
+                        "sentence": "Whose caps are these?",
+                        "sentence_chinese": "這些是誰的棒球帽？"
+                    },
+                    {
+                        "id": "e5-4-u4-sg024",
+                        "sentence": "They're their caps.",
+                        "sentence_chinese": "這些是他們的棒球帽。"
+                    },
+                    {
+                        "id": "e5-4-u4-sg025",
+                        "sentence": "Whose lunchboxes are these?",
+                        "sentence_chinese": "這些是誰的午餐盒？"
+                    },
+                    {
+                        "id": "e5-4-u4-sg026",
+                        "sentence": "They're my lunchboxes.",
+                        "sentence_chinese": "這些是我的午餐盒。"
+                    },
+                    {
+                        "id": "e5-4-u4-sg027",
+                        "sentence": "Whose umbrellas are these?",
+                        "sentence_chinese": "這些是誰的雨傘？"
+                    },
+                    {
+                        "id": "e5-4-u4-sg028",
+                        "sentence": "They're your umbrellas.",
+                        "sentence_chinese": "這些是你的雨傘。"
+                    },
+                    {
+                        "id": "e5-4-u4-sg029",
+                        "sentence": "Whose water bottles are these?",
+                        "sentence_chinese": "這些是誰的水壺？"
+                    },
+                    {
+                        "id": "e5-4-u4-sg030",
+                        "sentence": "They're his water bottles.",
+                        "sentence_chinese": "這些是他的水壺。"
+                    }
+                ]
+            }
+        }
+    }
+}
