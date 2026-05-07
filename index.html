@@ -387,15 +387,9 @@
                 } else {
                     const newErrorCount = errorCount + 1;
                     setErrorCount(newErrorCount);
-                    if (newErrorCount >= 3) {
-                        setFeedback('wrong');
-                        speakText("Try again");
-                        setTimeout(() => setFeedback(null), 1000);
-                    } else {
-                        setFeedback('wrong');
-                        speakText("Try again");
-                        setTimeout(() => setFeedback(null), 1000);
-                    }
+                    setFeedback('wrong');
+                    speakText("Try again");
+                    setTimeout(() => setFeedback(null), 1000);
                 }
             };
 
